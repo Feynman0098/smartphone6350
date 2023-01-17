@@ -17,7 +17,7 @@ class ViewController: UIViewController {
 
     @IBAction func pressAction(_ sender: UIButton) {
         print("press")
-        lblExample.text = "The button was pressed"
+        lblExample.text = "Hello World"
     }
     
 }
